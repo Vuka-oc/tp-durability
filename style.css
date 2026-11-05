@@ -5,9 +5,15 @@ body {
   margin: auto;
   padding: auto;
   border: 3px solid salmon;
+  font-family: 'Courier New', Courier, monospace;
+  color:aqua;
+  line-height: 120%;
 }
-p {
-    font-family: 'Courier New', Courier, monospace;
-    color:aqua;
-    line-height: 120%;
+h1 {
+    color:greenyellow;
+}
+h2 {
+    color: lime;
+    border-bottom: 4px solid teal;
+    padding-bottom: 5px;
 }
