@@ -30,3 +30,15 @@ img {
     border: 10px solid teal;
     border-radius: 25px;
 }
+table {
+    border: 2px black;
+    border-collapse;
+    background-color: brown;
+    padding: 20px;
+}
+th {
+    background-color: cornflowerblue;
+}
+td {
+    background-color: darkolivegreen;
+}
