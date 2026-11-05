@@ -25,3 +25,8 @@ a:hover {
     background-color:gainsboro;
     font-size: 20px;
 }
+img {
+    max-width: 450px;
+    border: 10px solid teal;
+    border-radius: 25px;
+}
